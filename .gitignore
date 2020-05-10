@@ -5,3 +5,4 @@ lib/*
 pyvenv.cfg
 data/*
 .DS_Store
+export/*
